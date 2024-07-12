@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+i9BET| Bắn Cá | Casino | Thể Thao – Giải Trí Không Giới Hạn - i9bet.engineer
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`i9BET <https://i9bet.engineer/>`_ là thiên đường giải trí lý tưởng cho những người đam mê cá cược trực tuyến trên toàn cầu. i9BET đã trở thành nhà cái hàng đầu Châu Á nhờ vào sự chuyên nghiệp, chất lượng dịch vụ và sự tận tình của nhân viên chăm sóc khách hàng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với hơn 10 triệu khách hàng, i9BET cung cấp hơn 1000 trò chơi đa dạng như cá độ thể thao, bắn cá, nổ hũ, đá gà, casino, game bài, và xổ số. i9BET đã được cấp phép hoạt động hợp pháp bởi PAGCOR và chính phủ Isle of Man, đảm bảo sự công bằng và minh bạch. Bên cạnh đó, i9BET luôn mang đến cho người chơi những trải nghiệm tuyệt vời và hấp dẫn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 114 Đ. Lê Sao, Phú Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0306326660. 
 
-.. toctree::
+Email: info@i9bet.engineer. 
 
-   usage
-   api
+Website: https://i9bet.engineer/
+
+#i9bet #nhacaii9bet #trangchui9bet #dangkyi9bet #linki9bet
